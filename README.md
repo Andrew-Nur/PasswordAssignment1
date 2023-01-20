@@ -1,2 +1,2 @@
-# Neat-Password-Assignments
-For PasswordAssignment1: enter the folder, run the app.bat and start guessing, or try to crack it any other way
+#Password Assignment 1
+Download all the files, once you have the zip, extract all of them and run the app.bat. Once run, start guessing! or try to crack it another away.
