@@ -1,2 +1,2 @@
 Password Assignment 1:
-Download all the files, once you have the zip, extract all of them and run the app.bat. Once run, start guessing! or try to crack it another away.
+after logging into lyron, in whatever directory you want, use the command git init to begin. Afterwards, type git pull clone https://github.com/Andrew-Nur/PasswordAssignment1.git to get the files. Finally, run the batch file and start guessing, or find another way to crack the password.
